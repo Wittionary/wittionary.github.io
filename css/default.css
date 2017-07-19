@@ -58,7 +58,7 @@ div.layer {
 .code-details, .video-details, .design-details {
     background-color: #678967;
     overflow: hidden;
-    width: 100%;
+    width: 80%;
     height: 0px;
     padding: 0px;
     margin: 0px;

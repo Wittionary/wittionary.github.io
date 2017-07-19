@@ -6,7 +6,7 @@ $(document).ready(function ($) {
 	    if( '0' == $('.code-details').height() ){
 	    	$(function () {
 		        $('.code-details').animate({
-		        	height: '250px',
+		        	height: '200px',
 		        	opacity: '1'
 		    	},	{duration: "slow", queue: false});
 		    	$('.video-details').animate({
@@ -40,7 +40,7 @@ $(document).ready(function ($) {
 		        	opacity: '.3'
 		    	},	{duration: "slow", queue: false});
 		    	$('.video-details').animate({
-		        	height: '250px',
+		        	height: '200px',
 		        	opacity: '1'
 		    	},	{duration: "slow", queue: false});
 		    	$('.design-details').animate({
@@ -72,7 +72,7 @@ $(document).ready(function ($) {
 		        	opacity: '.3'
 		    	},	{duration: "slow", queue: false});
 		    	$('.design-details').animate({
-		        	height: '250px',
+		        	height: '200px',
 		        	opacity: '1'
 		    	},	{duration: "slow", queue: false});
 		    });
