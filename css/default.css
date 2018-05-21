@@ -27,7 +27,7 @@ a li {
 li.item {
 	text-transform: none;
 	font-family: 'Roboto', sans-serif;
-	font-size: 3vw;
+	font-size: 4vw;
 	position: relative;
 	left: 1vw;
 }
@@ -87,7 +87,7 @@ div.layer {
 
 div.content-summary {
 	text-transform: none;
-	font-size: 12px;
+	font-size: 4vw;
 	background-color: black;
 	opacity: 0.5;
 }
